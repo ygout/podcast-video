@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "christian-kohler.npm-intellisense",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "msjsdiag.debugger-for-chrome",
+    "mike-co.import-sorter",
+    "gitlab.gitlab-workflow",
+    "stylelint.vscode-stylelint"
+  ]
+}
